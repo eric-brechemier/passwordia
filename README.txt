@@ -39,5 +39,6 @@ REFERENCES
 HISTORY
 
   2012-06-02, First design, "Secret Star of Passwordia", Japanese influence
-  2012-07-11, Second design, "Passwordia", symbolic: eye (view) + X (forbidden)
+  2012-07-11, Second design, "Space Invader", eye (view) + X (forbidden)
+  2015-08-21, Third design, "Negative Space Star", black square minus star
 
